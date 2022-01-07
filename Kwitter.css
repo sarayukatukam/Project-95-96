@@ -1,0 +1,38 @@
+body
+{
+    background-image: url("background 1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    border-radius: 50%;
+    height: 80px;
+    }
+
+    h1{
+        color:  #4832a8;
+        font-family: 'Shizuru', cursive;
+        font-size: 50px;
+    }
+
+    input
+    {
+        margin-left: 500px;
+        margin-top: 50px;
+    }
+
+    button
+    {
+        margin-right: 700px;
+        margin-top: 130px;   
+        width: 150px;
+    }
+
+    #Chatters
+    {
+        height: 500px;
+        margin-right: 150px;
+    }
+
+    

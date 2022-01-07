@@ -1,0 +1,63 @@
+    img {
+    border-radius: 50%;
+    height: 80px;
+    margin-left: 70px;
+    }
+
+    .room_name
+    {
+     cursor: pointer;
+     font-size: 20px;
+    }
+ 
+ 
+    #logout
+    {
+     font-size: 20px; 
+     float: right;
+     margin-top: 20px;
+    }
+
+    body {
+        background-color: aquamarine;
+    }
+
+
+    h1{
+        color:  #4832a8;
+        font-family: 'Shizuru', cursive;
+        font-size: 50px;
+    }
+
+    #output
+    {
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+    }
+
+    
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
